@@ -1,0 +1,70 @@
+"Inc" {   
+printf("This is ++\n");
+}
+
+"Dec" { 
+printf("This is --\n");
+}
+
+"<-" {
+printf("This is assignment\n");
+}
+
+"Gt" {
+printf("This is greater than\n");
+}
+
+"Lt" {
+printf("This is less than\n);
+}
+
+"Ee" {  
+printf("this is equal\n");
+}
+
+"Gte" {
+printf("This is greater than equal\n");
+}
+
+"Lte" {
+printf("This is less than equal\n")
+}
+
+"Nte" {
+printf("This is not equal\n");
+}
+
+"Fbs" {
+printf("This is first bracket started\n");
+}
+
+"Fbc" {  
+printf("This is first bracket closed\n) ; 
+}
+
+"Sbs" {
+printf("This is second bracket started\n");
+}
+
+"Sbc" {   
+printf("This is second bracket closed\n);
+}
+
+"##" {
+printf("This is comma\n");
+}
+
+"$$" { 
+printf("This is semicololn\n");
+}
+
+":" { 
+printf("This is colon\n");
+}
+
+{digit}* {
+    printf("This is digit : %s\n",yytext);
+}
+{variable} {
+    printf("This is variable : %s\n,yytext);
+}

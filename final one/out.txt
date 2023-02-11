@@ -1,0 +1,24 @@
+
+valid declaration
+error: multiple declaration for  rakib
+
+valid declaration
+error: multiple declaration for a
+
+valid declaration
+
+valid declaration
+printed Value is :9.000000  
+ if statement successfully execute !!!
+else statement successfully execute !!!
+printed Value is :25.000000  
+printed Value is :25.000000  10.000000  
+Case No : 1 execute and Result  is : 13.000000 
+Switch statement successfully execute !!!
+printed Value is :9.000000  
+ForLoop executes 4 times
+printed Value is :9.000000  
+
+successful compilation
+MultiComment successfully executed
+single Comment successfully executed

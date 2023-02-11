@@ -1,0 +1,41 @@
+
+valid declaration
+error: multiple declaration for 'r' !!!
+
+valid declaration
+error: multiple declaration for 'a'
+
+valid declaration
+
+valid declaration
+cstatement : 62
+printed Value is :0  
+cstatement : 1
+printed Value is :1  
+cstatement : 10
+cstatement : 9
+printed Value is :9  
+cstatement : 2
+ if statement successfully execute !!!
+cstatement : 2
+else statement successfully execute !!!
+cstatement : 2
+printed Value is :25  
+printed Value is :25  10  
+cstatement : 1
+Case No : 1 execute and Result  is : 13 
+Switch statement successfully execute !!!
+cstatement : 1
+printed Value is :9  
+Step : 10 and value of expression : 8
+Step : 8 and value of expression : 8
+Step : 6 and value of expression : 8
+Step : 4 and value of expression : 8
+ForLoop executes 4 times
+cstatement : 0
+printed Value is :9  
+
+successful compilation
+Unknown Character.
+
+syntax error

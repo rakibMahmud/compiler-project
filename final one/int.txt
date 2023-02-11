@@ -1,0 +1,67 @@
+
+Int main_function Fbs Fbc
+
+Sbs
+
+char rakib$$
+char rakib$$
+int  a##b##a##d##c##e$$
+
+float k$$
+k<-62.22$$
+
+rakib<-d$$
+
+
+a<-1 $$
+c<-10$$
+a<- 5 Plus 4 $$
+Print Fbs a Fbc $$
+d<-2$$
+
+
+
+If Fbs a Lt 10 Fbc 
+ Sbs
+ b<-2$$
+ Sbc
+
+If Fbs a Gt 11 Fbc 
+ Sbs
+ b<-20$$
+ Sbc
+Else
+ Sbs
+  b<-25$$
+ Sbc
+
+Print Fbs b Fbc $$
+
+Print Fbs b##c Fbc $$
+
+c <- 1 $$
+ Switch Fbs c Fbc
+Sbs
+Case 1:5 Plus 8 $$
+Case 2:5 Plus 5 $$
+Default:7 Plus 7 $$
+Sbc
+
+Print Fbs a Fbc $$
+
+For Fbs c <- 10 $$ c Gt 2 $$ c <- c Minus 2 Fbc
+Sbs
+  5 Plus 3 $$	 
+Sbc
+
+Print Fbs a Fbc $$
+
+
+
+Sbc
+
+ 
+*Hi, How  are you
+Are you from kuet*
+
+@I am rakib

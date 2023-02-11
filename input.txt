@@ -1,0 +1,37 @@
+Sbs
+a<-aPlus24
+a<-aMinus22.43
+b<-45Plus728
+Fbs
+c<-10
+d_<-20.34$$
+Fbc
+_bc<-30,,c<-60$$
+rakibHeader <stdio.h>
+# i am a student
+*I am rakib
+I am from tangail*
+Sbc
+RakibFunction reversing
+If a Gt 10
+ElseIf b Lt 20.45
+Else
+If c Gte d
+conditionEnd 
+DeclaringVariable a,b,c
+array <ara1>20
+For a Gt 20
+ForEnd
+	^
+
+look
+found
+a<-40
+Switch <a>
+case 3>
+case 4>
+case 50>
+Default
+
+rakib Inc
+Dec rakib

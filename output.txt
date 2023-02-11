@@ -1,0 +1,58 @@
+This is second bracket started
+Arithmetic Operation
+Arithmetic Operation
+Arithmetic Operation
+This is first bracket started
+Integer Value assign
+double value assign
+This is semicolon
+This is first bracket closed
+Integer Value assign
+This is comma
+Integer Value assign
+This is semicolon
+Header found :  <stdio.h>
+Single comment found :  i am a student
+Multiline comment found : I am rakib
+I am from tangail
+This is second bracket closed
+function called
+reversing
+If condition : If a Gt 10
+ElseIf condition : ElseIf b Lt 20.45
+Else condition
+If condition : If c Gte d
+condition ended
+variable Declared
+a,b,c
+Declaring Array :  <ara1>20
+For loop started : For a Gt 20
+For loop ended
+Unknown Character.
+Keyword is found : look
+Keyword is found : found
+Integer Value assign
+Switch case is found Switch <a>
+Case condition : case 3>
+Case condition : case 4>
+Case condition : case 50>
+Default condition
+Post increment or decrement rakib Inc
+Pre increment or decrement Dec rakib
+
+
+------Rakib Mahmud 1807077--------
+
+Showing the existing things
+Number of header file : 1
+Number of expression for integer : 4
+Number of expression for double : 1
+Nummber of comment : 2
+Number of Arithmetic operator : 3
+Number of functions are : 1
+Number of conditions are : 3
+Number of variables are : 1
+Number of arrays are : 1
+Number of loops are : 0
+Number of keywords are : 2
+Number of switch cases are : 1
